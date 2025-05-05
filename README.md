@@ -47,7 +47,7 @@ I’m open to exciting opportunities in full-stack development, open-source, and
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://www.yourportfolio.com">
+<a href="https://rushikesh-parkhe18.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
