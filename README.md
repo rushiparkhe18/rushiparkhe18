@@ -39,6 +39,16 @@ I’m open to exciting opportunities in full-stack development, open-source, and
 
 ---
 
-📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshparkhe18)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://www.yourportfolio.com)
+<div align="center">
+
+📫 <strong>Reach me at:</strong>  
+<br><br>
+<a href="https://www.linkedin.com/in/rushikeshparkhe18">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
