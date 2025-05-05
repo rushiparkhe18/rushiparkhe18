@@ -31,7 +31,6 @@ I'm a passionate full-stack developer who loves building scalable web apps, expl
 ### 🌱 Currently Learning
 - Advanced Machine Learning and AI
 - DevOps: Docker, Kubernetes, CI/CD, AWS
-- Serverless architecture and scalable backend systems
 
 ---
 
