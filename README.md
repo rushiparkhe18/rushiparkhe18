@@ -1,6 +1,12 @@
 ## 👋 Hi there, I'm Rushi Parkhe
 
-I'm a passionate full-stack developer who loves building scalable web apps, exploring machine learning, and diving deep into DevOps. I aim to create meaningful tech solutions that blend innovation, performance, and usability.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=450&lines=DevOps+Explorer;Fullstack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+
+I'm a passionate full-stack developer and DevOps enthusiast, dedicated to building scalable, secure, and high-performance applications. With a strong foundation in web development and an evolving journey in Machine Learning and Cloud DevOps, I strive to create tech that truly matters.
 
 ---
 
@@ -28,27 +34,32 @@ I'm a passionate full-stack developer who loves building scalable web apps, expl
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Machine Learning and AI
-- DevOps: Docker, Kubernetes, CI/CD, AWS
+
+
+
+
+## 🌱 Currently Exploring
+
+✨ I'm diving deeper into the world of **DevOps**, exploring tools like **Docker**, **Kubernetes**, **AWS**, and **CI/CD pipelines**.  
+🧠 Simultaneously, I'm enhancing my skills in **modern full-stack development** with **Next.js**, **Node.js**, and **MongoDB**.  
+🚀 My goal is to build robust, scalable, and production-ready applications that solve real-world problems.
 
 ---
 
-### 🤝 Let's Collaborate
-I’m open to exciting opportunities in full-stack development, open-source, and ML/DevOps-focused projects.
-
----
+## 🤝 Let's Connect!
 
 <div align="center">
-
-📫 <strong>Reach me at:</strong>  
-<br><br>
-<a href="https://www.linkedin.com/in/rushikeshparkhe18">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://rushikesh-parkhe18.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-
+  <a href="mailto:rushikeshparkhe18@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rushikeshparkhe18">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RushikeshParkhe18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://rushikesh-parkhe18.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </div>
+
